@@ -1,6 +1,11 @@
 # Medium Stats
 
-This is just a solution to view your medium's lifetime stats rather than the current medium solution of displaying just a month by month stats making it cubersome to calculate all the stats from stories and fans received.
+This is just a solution to view your medium's lifetime stats rather than the current [medium](https://medium.com/) solution of displaying just a month by month stats making it cumbersome to calculate all the stats from stories and fans received.
+
+## Existing stats show only a month by month stat:
+![Your stories stats – Medium](https://user-images.githubusercontent.com/30528167/150293368-bef09967-f587-4adb-95c5-89785ffaf22d.png)
+
+## This script assists writers to quickly view lifetime stats:
 ![TotalViews](https://user-images.githubusercontent.com/30528167/150292278-afc3caa8-bb25-4abc-8486-c80209d6c325.PNG)
 
 
